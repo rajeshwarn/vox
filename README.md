@@ -1,2 +1,2 @@
 # vox
-Stream system audio through USB from Windows PC to iPhone.
+Stream system audio through USB from Windows to iPhone.
