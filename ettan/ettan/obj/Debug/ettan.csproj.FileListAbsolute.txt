@@ -1,0 +1,12 @@
+C:\Users\asd\Desktop\ettan\ettan\bin\Debug\ettan.exe.config
+C:\Users\asd\Desktop\ettan\ettan\bin\Debug\ettan.exe
+C:\Users\asd\Desktop\ettan\ettan\bin\Debug\ettan.pdb
+C:\Users\asd\Desktop\ettan\ettan\bin\Debug\CSCore.dll
+C:\Users\asd\Desktop\ettan\ettan\bin\Debug\iMobileDevice-net.dll
+C:\Users\asd\Desktop\ettan\ettan\bin\Debug\CSCore.xml
+C:\Users\asd\Desktop\ettan\ettan\bin\Debug\iMobileDevice-net.xml
+C:\Users\asd\Desktop\ettan\ettan\obj\Debug\ettan.csprojResolveAssemblyReference.cache
+C:\Users\asd\Desktop\ettan\ettan\obj\Debug\ettan.csproj.CoreCompileInputs.cache
+C:\Users\asd\Desktop\ettan\ettan\obj\Debug\ettan.csproj.CopyComplete
+C:\Users\asd\Desktop\ettan\ettan\obj\Debug\ettan.exe
+C:\Users\asd\Desktop\ettan\ettan\obj\Debug\ettan.pdb
